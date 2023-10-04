@@ -41,6 +41,7 @@ namespace Sinhvien
         {
             SinhvienTN a;
             a = new SinhvienTN("Ya Dat", "03/05/2004", 16000000, 0);
+            Console.WriteLin("Hello,World");
         }
     }
 }
